@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Venkat 👋
 
-<!--
-**venkayya2646/venkayya2646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Engineer | GCP | BigQuery | Airflow | Python
 
-Here are some ideas to get you started:
+## 💼 About Me
+- 2+ years experience building scalable ETL/ELT pipelines
+- Processing 200+ GB daily on GCP
+- Optimized BigQuery performance by 85%
+- Reduced storage costs by 90% via Data Lifecycle Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python | SQL | Bash
+- BigQuery | GCS | Pub/Sub | Cloud Composer
+- Apache Airflow | Spark | PySpark
+- Looker | Looker Studio
+
+## 📜 Certifications
+- Google Cloud Certified - Associate Cloud Engineer
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/venkat-yadlapalli-882223225
+- Email: venkatyadlapalli4626@gmail.com
+
