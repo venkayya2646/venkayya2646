@@ -89,7 +89,7 @@ I’m a **Google Cloud Certified Data Engineer** with 2+ years of experience des
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn:  
-  https://www.linkedin.com/in/venkat-yadlapalli-882223225  
+  https://www.linkedin.com/in/venkayya-yadlapalli/
 
 - 📧 Email:  
   venkatyadlapalli4626@gmail.com  
